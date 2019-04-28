@@ -4,4 +4,12 @@ description:
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-linkedin: https://www.linkedin.com/in/ashwini-pisal/
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/ashwini-pisal/"
+
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/ashwini88"
