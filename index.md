@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Hello, My name is Ashwini Pisal. I am a graduate student at Georgia State University,Atlanta Georgia. I will be graduating summer-2019.
+I am working as Graduate Research Asssitant in Learning and Developement Technologies at Georgis State Univeristy. 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
