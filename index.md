@@ -3,7 +3,8 @@ layout: default
 ---
 
 Hello, My name is Ashwini Pisal. I am a graduate student at Georgia State University,Atlanta Georgia. I will be graduating summer-2019.
-I am working as Graduate Research Asssitant in Learning and Developement Technologies at Georgis State Univeristy. 
+I am working as Graduate Research Asssitant in Learning and Developement Technologies under Dr.Kim. We are working on Student Mental Model Analyzer for Research and Teaching Support (SMART).Technology to Support In-Classroom Adaptive Problem-Centered Learning.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
