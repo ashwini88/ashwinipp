@@ -19,6 +19,12 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+        
+        {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github"></i> GitHub</a></li>
+          <li><a href="https://linkedin.com/in/{{ site.linkedin_username }}"><i class="fa fa-linkedin"></i> LinkedIn</a></li>
+        </ul>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
